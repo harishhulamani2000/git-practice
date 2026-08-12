@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: arial;
+    font-size: large;
+}
+
+.box{
+    width: 200px;
+    margin: 30px;
+    padding: 30px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px;
+    font-weight: bolder;
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+.box3{
+    background-color: yellow;
+}

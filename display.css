@@ -1,0 +1,21 @@
+body{font-family:Arial,sans-serif;
+}
+
+.box{
+    display: inline;
+    background-color:lightblue;
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+}
+
+.text{
+    display: inline;
+    background-color: yellow;
+    border: 2px solid orange;
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+}
